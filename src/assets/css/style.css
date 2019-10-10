@@ -1,0 +1,177 @@
+.el-table th>.cell {
+    background: #DDDDDD;
+    color: #666666;
+    border-right: 1px solid #fff;
+    text-align: center;
+    height: 42px;
+    line-height: 42px !important;
+    border-right: 0px;
+}
+
+.cell {
+    text-align: center;
+    font-size: 14px;
+}
+
+.wrapperMain_chapterbox .cell {
+    text-align: left !important;
+}
+
+.el-table td,
+.el-table th {
+    padding: 0 !important;
+}
+
+.el-table .cell {
+    line-height: 30px !important;
+}
+
+.el-textarea .el-textarea__inner {
+    resize: none;
+}
+
+
+/* 表格hover修改背景色 */
+
+
+/* .el-table--enable-row-hover .el-table__body tr:hover>td {
+    background-color: #fff !important;
+} */
+
+.el-table--striped .el-table__body tr.el-table__row--striped td {
+    background: #E7F0FB !important;
+}
+
+.el-table--striped .el-table__body tr.el-table__row--striped td>.handleIcon {
+    background: #f00 !important;
+}
+
+.el-popover {
+    background: #9FCAF5 !important;
+    padding: 0 !important;
+}
+
+.el-table td,
+.el-table th.is-leaf {
+    border-bottom: 0 !important;
+}
+
+.el-table--border th,
+.el-table--border td {
+    border-right: 0 !important;
+}
+
+.hover-row {
+    background-color: #E7f0FB !important;
+}
+
+.el-table__header-wrapper {
+    border-radius: 5px !important;
+}
+
+
+/* 分页器 */
+
+.el-pagination.is-background .el-pager li:not(.disabled).active {
+    background-color: #fff !important;
+    color: #666 !important;
+    border: 1px solid #ccc;
+}
+
+.el-pager li {
+    background-color: #fff !important;
+}
+
+.el-pager li:hover {
+    color: #666 !important;
+}
+
+.el-select {
+    width: 100% !important;
+}
+
+.el-pagination.is-background .btn-prev {
+    background-color: #DDDDDD !important;
+}
+
+.el-pagination.is-background .btn-next {
+    background-color: #DDDDDD !important;
+}
+
+
+/* tree */
+
+.el-tree-node__expand-icon.is-leaf {
+    color: transparent !important;
+    cursor: default !important;
+}
+
+.el-tree-node__expand-icon {
+    color: #8CB4ED !important;
+    font-size: 18px !important;
+}
+
+.el-tree-node__label {
+    font-size: 16px !important;
+    /* margin-left: 20px; */
+}
+
+.el-tree-node__content {
+    height: 36px !important;
+}
+
+.el-tree-node:focus>.el-tree-node__content {
+    background-color: transparent !important;
+    color: #3f82e1;
+}
+
+.el-tree-node:hover>.el-tree-node__content {
+    background-color: transparent !important;
+    /* color: #3f82e1; */
+}
+
+.userMansgeBox .el-tree-node__content .el-tree-node__expand-icon {
+    color: transparent !important;
+}
+
+
+/* 复选框 */
+
+.el-checkbox__inner {
+    width: 18px !important;
+    height: 18px !important;
+}
+
+.el-checkbox__inner::after {
+    height: 8px !important;
+    left: 6px !important;
+    top: 2px !important;
+}
+
+
+/* el-tab */
+
+
+/* .el-tabs__nav-wrap .el-tabs__nav-scroll .el-tabs__nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+} */
+
+
+/* 文本框 */
+
+.el-textarea__inner {
+    min-height: 100% !important;
+}
+
+
+/* 面包屑 */
+
+.el-breadcrumb {
+    font-size: 18px !important;
+}
+
+.el-message {
+    z-index: 2099 !important;
+}

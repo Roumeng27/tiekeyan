@@ -1,0 +1,101 @@
+
+.baI_details{
+  background-image: url('../img/icon/详情.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_modify{
+  background-image: url('../img/icon/修改.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_close{
+  background-image: url('../img/icon/关闭.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_addson{
+  background-image: url('../img/icon/创建子主题.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_seedeclare{
+  background-image: url('../img/icon/查看申报.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_seedecision{
+  background-image: url('../img/icon/申报决策.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_declare{
+  background-image: url('../img/icon/申报.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_release{
+  background-image: url('../img/icon/发布.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_Submission{
+  background-image: url('../img/icon/提交完成.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_adopt{
+  background-image: url('../img/icon/通过.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_pass{
+  background-image: url('../img/icon/不通过.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_hangup{
+  background-image: url('../img/icon/挂起.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_ranking{
+  background-image: url('../img/icon/排名.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_opinion{
+  background-image: url('../img/icon/评审意见.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_write_word{
+  background-image: url('../img/icon/编辑文档.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_look_word{
+  background-image: url('../img/icon/查看文档.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_chapter{
+  background-image: url('../img/icon/管理章节.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_cancle{
+  background-image: url('../img/icon/取消发布.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_delete{
+  background-image: url('../img/icon/删除.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.baI_add_subchapter{
+  background-image: url('../img/icon/新增子章节.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
